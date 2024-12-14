@@ -12,7 +12,7 @@ import os
 import time
 import numpy as np
 import tensorflow as tf
-from tensorflow.keras.models import load_model
+# from tensorflow.keras.models import load_model
 from PIL import Image
 import cv2
 import streamlit as st
